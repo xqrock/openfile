@@ -1,6 +1,0 @@
-payload:
-  - '+.ads.youtube.com'
-  - '+.fcmatch.youtube.com'
-  - '+.s2.youtube.com'
-  - '+.wyoutube.fr'
-  - '+.youtube.local'
